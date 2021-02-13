@@ -1,0 +1,24 @@
+table {
+  color: green;
+}
+li[height="90"] {
+  color: orange;
+}
+.privet {
+  color: red;
+}
+.table-red {
+  color: red;
+}
+.table-blue {
+  color: blue;
+}
+
+.table-fat {
+  font-weight: bold;
+}
+
+#i-am-man {
+  font-weight: bold;
+  color: orange;
+}
